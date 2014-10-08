@@ -1,7 +1,0 @@
-package com.aguacate.send2cuba.restful.model;
-
-import java.io.Serializable;
-
-public abstract class PersistentEntity implements Serializable {
-
-}
