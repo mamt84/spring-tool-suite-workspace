@@ -1,5 +1,0 @@
-package com.aguacate.send2cuba.restful.model;
-
-public abstract class PersistentEntity {
-
-}
